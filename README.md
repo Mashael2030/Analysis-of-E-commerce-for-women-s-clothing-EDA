@@ -8,11 +8,11 @@ In this project, I will analyze the reviews for women's clothing e-commerce. the
 2. What are the class names of products have most reviewed?
 3. What are the top five products recommended by reviewers for other people?
 
-*** Tools that I used in this project *** 
+***Tools that I used in this project*** 
  
  Pandas,Numpy,Matplotlib,Jupyter Notebook 
  
- *** Conlcusion ***
+ ***Conlcusion***
 
 the project is help marketing department in order to better target their market and how they can use their customers feedbacks in order to improve their business and products.
  

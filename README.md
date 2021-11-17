@@ -1,4 +1,4 @@
-#  Women's E-Commerce Clothing Reviews_EDA
+#  Women's E-Commerce Clothing Reviews Data Analysis Project
 Project Proposal_EDA Project , Dataset , MVP.
 
 In this project, I will analyze the reviews for women's clothing e-commerce. the questions I will try to answer it as follows:

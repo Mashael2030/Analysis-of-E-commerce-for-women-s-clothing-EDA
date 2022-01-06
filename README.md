@@ -1,5 +1,5 @@
 
-# Women-s-E-Commerce-Clothing-Reviews-Data-Analysis-Project
+# Women-s-E-Commerce-Clothing-Data-Analysis-Project
 
 SDAIA T5 Data Science Bootcamp EDA Project
 * [Project Proposal](https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication/blob/main/Documentation/Project%20Proposal.md)
